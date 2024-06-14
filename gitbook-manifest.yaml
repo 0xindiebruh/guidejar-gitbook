@@ -17,7 +17,7 @@ description: Embed interactive product demos in your documentation and provide a
 previewImages:
   - ./assets/guidejar-preview.png
 organization: pbLhrPxezd3hpXZCxkx4
-visibility: unlisted
+visibility: public
 script: src/index.tsx
 scopes: []
 blocks:
